@@ -1,0 +1,35 @@
+01. first.js
+02. variable.js
+03. string-indexing.js
+04. string-methods.js
+05. datatypes.js
+06. template-string.js
+07. if-else-statement.js
+08. operators.js
+09. switch-statement.js
+10. while-loop.js
+11. for-loop.js
+12. break-continue.js
+13. do-while-loop.js
+
+Array in JavaScript
+
+01. array.js
+02. primative-reference-datatypes.js
+03. for-loop-in_array.js
+04. const-using-array.js
+05. while_loop-array.js
+06. for_of-loop.js
+07. for_in-loop.js
+08. array-distructuring.js
+
+Objects In JavaScript
+
+01. objects.js
+02. spread-operator-objects.js
+03. object-destructuring.js
+04. object-inside-array.js
+05. nested-destructuring.js
+
+Functions In JavaScript
+01. 
